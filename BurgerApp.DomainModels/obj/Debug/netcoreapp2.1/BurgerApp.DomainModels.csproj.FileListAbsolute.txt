@@ -1,0 +1,9 @@
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.DomainModels\bin\Debug\netcoreapp2.1\BurgerApp.DomainModels.deps.json
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.DomainModels\bin\Debug\netcoreapp2.1\BurgerApp.DomainModels.dll
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.DomainModels\bin\Debug\netcoreapp2.1\BurgerApp.DomainModels.pdb
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.DomainModels\obj\Debug\netcoreapp2.1\BurgerApp.DomainModels.csprojAssemblyReference.cache
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.DomainModels\obj\Debug\netcoreapp2.1\BurgerApp.DomainModels.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.DomainModels\obj\Debug\netcoreapp2.1\BurgerApp.DomainModels.AssemblyInfo.cs
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.DomainModels\obj\Debug\netcoreapp2.1\BurgerApp.DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.DomainModels\obj\Debug\netcoreapp2.1\BurgerApp.DomainModels.dll
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.DomainModels\obj\Debug\netcoreapp2.1\BurgerApp.DomainModels.pdb

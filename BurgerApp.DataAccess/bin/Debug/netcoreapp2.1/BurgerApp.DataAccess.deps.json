@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "BurgerApp.DataAccess/1.0.0": {
+        "dependencies": {
+          "BurgerApp.DomainModels": "1.0.0"
+        },
+        "runtime": {
+          "BurgerApp.DataAccess.dll": {}
+        }
+      },
+      "BurgerApp.DomainModels/1.0.0": {
+        "runtime": {
+          "BurgerApp.DomainModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BurgerApp.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BurgerApp.DomainModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

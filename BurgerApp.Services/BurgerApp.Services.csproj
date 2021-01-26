@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BurgerApp.DataAccess\BurgerApp.DataAccess.csproj" />
+    <ProjectReference Include="..\BurgerApp.Mappers\BurgerApp.Mappers.csproj" />
+    <ProjectReference Include="..\BurgerApp.ViewModels\BurgerApp.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

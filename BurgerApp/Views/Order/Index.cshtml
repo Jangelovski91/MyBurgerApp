@@ -1,0 +1,25 @@
+﻿@model List<OrderDetailsViewModel>
+
+<h2>List of orders:</h2>
+<div>
+    <a asp-controller="Order" asp-action="CreateOrder">Create new order</a>
+</div>
+    @foreach(OrderDetailsViewModel order in Model)
+    {
+        <ul>
+        <li>Burger Store: @order.BurgerStore</li>
+        <li>Payment Method: @order.PaymentMethod</li>
+        <li>Price: @order.Price</li>
+        <li>User: @order.UserFullName</li>
+            <li>
+                <ol>
+                    @foreach (var burgerName in order.BurgerNames)
+                    {
+                        <li>@burgerName</li>
+                    }
+                </ol>
+            </li>
+            <li><a asp-controller="Order" asp-action="Details" asp-route-id="@order.ID">See details</a></li>
+        </ul>
+        <hr/>
+    }

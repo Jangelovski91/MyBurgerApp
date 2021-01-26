@@ -1,0 +1,14 @@
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Helpers\bin\Debug\netcoreapp2.1\BurgerApp.Helpers.deps.json
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Helpers\bin\Debug\netcoreapp2.1\BurgerApp.Helpers.dll
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Helpers\obj\Debug\netcoreapp2.1\BurgerApp.Helpers.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Helpers\obj\Debug\netcoreapp2.1\BurgerApp.Helpers.AssemblyInfo.cs
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Helpers\bin\Debug\netcoreapp2.1\BurgerApp.Helpers.pdb
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Helpers\bin\Debug\netcoreapp2.1\BurgerApp.DataAccess.dll
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Helpers\bin\Debug\netcoreapp2.1\BurgerApp.DomainModels.dll
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Helpers\bin\Debug\netcoreapp2.1\BurgerApp.DataAccess.pdb
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Helpers\bin\Debug\netcoreapp2.1\BurgerApp.DomainModels.pdb
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Helpers\obj\Debug\netcoreapp2.1\BurgerApp.Helpers.csprojAssemblyReference.cache
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Helpers\obj\Debug\netcoreapp2.1\BurgerApp.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Helpers\obj\Debug\netcoreapp2.1\BurgerApp.Helpers.csproj.CopyComplete
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Helpers\obj\Debug\netcoreapp2.1\BurgerApp.Helpers.dll
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Helpers\obj\Debug\netcoreapp2.1\BurgerApp.Helpers.pdb

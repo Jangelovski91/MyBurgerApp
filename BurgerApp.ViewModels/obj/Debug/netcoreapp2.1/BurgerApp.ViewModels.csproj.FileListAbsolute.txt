@@ -1,0 +1,12 @@
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.ViewModels\bin\Debug\netcoreapp2.1\BurgerApp.ViewModels.deps.json
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.ViewModels\bin\Debug\netcoreapp2.1\BurgerApp.ViewModels.dll
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.ViewModels\bin\Debug\netcoreapp2.1\BurgerApp.ViewModels.pdb
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.ViewModels\bin\Debug\netcoreapp2.1\BurgerApp.DomainModels.dll
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.ViewModels\bin\Debug\netcoreapp2.1\BurgerApp.DomainModels.pdb
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.ViewModels\obj\Debug\netcoreapp2.1\BurgerApp.ViewModels.csprojAssemblyReference.cache
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.ViewModels\obj\Debug\netcoreapp2.1\BurgerApp.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.ViewModels\obj\Debug\netcoreapp2.1\BurgerApp.ViewModels.AssemblyInfo.cs
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.ViewModels\obj\Debug\netcoreapp2.1\BurgerApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.ViewModels\obj\Debug\netcoreapp2.1\BurgerApp.ViewModels.csproj.CopyComplete
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.ViewModels\obj\Debug\netcoreapp2.1\BurgerApp.ViewModels.dll
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.ViewModels\obj\Debug\netcoreapp2.1\BurgerApp.ViewModels.pdb

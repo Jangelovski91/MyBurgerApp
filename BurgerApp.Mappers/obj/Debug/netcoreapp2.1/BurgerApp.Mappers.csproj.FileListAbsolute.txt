@@ -1,0 +1,14 @@
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Mappers\bin\Debug\netcoreapp2.1\BurgerApp.Mappers.deps.json
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Mappers\bin\Debug\netcoreapp2.1\BurgerApp.Mappers.dll
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Mappers\bin\Debug\netcoreapp2.1\BurgerApp.Mappers.pdb
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Mappers\bin\Debug\netcoreapp2.1\BurgerApp.DomainModels.dll
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Mappers\bin\Debug\netcoreapp2.1\BurgerApp.ViewModels.dll
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Mappers\bin\Debug\netcoreapp2.1\BurgerApp.DomainModels.pdb
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Mappers\bin\Debug\netcoreapp2.1\BurgerApp.ViewModels.pdb
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Mappers\obj\Debug\netcoreapp2.1\BurgerApp.Mappers.csprojAssemblyReference.cache
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Mappers\obj\Debug\netcoreapp2.1\BurgerApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Mappers\obj\Debug\netcoreapp2.1\BurgerApp.Mappers.AssemblyInfo.cs
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Mappers\obj\Debug\netcoreapp2.1\BurgerApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Mappers\obj\Debug\netcoreapp2.1\BurgerApp.Mappers.csproj.CopyComplete
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Mappers\obj\Debug\netcoreapp2.1\BurgerApp.Mappers.dll
+C:\Users\Ace\Desktop\MyBurgerApp\BurgerApp.Mappers\obj\Debug\netcoreapp2.1\BurgerApp.Mappers.pdb

@@ -1,0 +1,18 @@
+﻿@model OrderDetailsViewModel
+
+
+<ul>
+    <li>Burger Store: @Model.BurgerStore</li>
+    <li>Payment Method: @Model.PaymentMethod</li>
+    <li>Price: @Model.Price</li>
+    <li>User: @Model.UserFullName</li>
+    <li>
+        <ol>
+            @foreach (var burgerName in Model.BurgerNames)
+            {
+                <li>@burgerName</li>
+            }
+        </ol>
+    </li>
+    <li><a asp-controller="Order" asp-action="Details" asp-route-id="@Model.ID"></a></li>
+</ul>
